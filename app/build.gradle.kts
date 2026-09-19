@@ -8,10 +8,10 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.nova.app"
+        applicationId = "com.nova.app2"
         minSdk = 26
         targetSdk = 34
-        versionCode = 1
+        versionCode = 2
         versionName = "1.0"
     }
 
